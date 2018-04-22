@@ -1,4 +1,4 @@
-package org.mrsixw.demo.landon.data.respository;
+package org.mrsixw.demo.landon.data.repository;
 
 import org.mrsixw.demo.landon.data.entity.Room;
 import org.springframework.data.repository.CrudRepository;
